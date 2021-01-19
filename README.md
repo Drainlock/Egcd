@@ -4,4 +4,4 @@
 
 
 To do: clear egcd.lua from useless lines.
-![preview](https://imgur.com/5Dklh9x)
+![preview](<blockquote class="imgur-embed-pub" lang="en" data-id="5Dklh9x" data-context="false" ><a href="//imgur.com/5Dklh9x"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
