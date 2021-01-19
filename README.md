@@ -4,4 +4,3 @@
 
 
 To do: clear egcd.lua from useless lines.
-! [] (egcd_preview.gif)
