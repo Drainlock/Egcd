@@ -1,0 +1,10 @@
+## Interface: 20400
+## Title: Egcd
+## Notes: Tracks enemy warriors/rogues GCD
+## Version: 0.95
+## Author: Drainlock, inspired by Klimp
+## DefaultState: Enabled
+## SavedVariables: EgcdDB
+
+Spells.lua
+Egcd.lua
