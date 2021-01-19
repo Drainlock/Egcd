@@ -4,4 +4,4 @@
 
 
 To do: clear egcd.lua from useless lines.
-![preview]
+![preview](https://ibb.co/sCF6qqK)
