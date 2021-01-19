@@ -3,5 +3,4 @@
 
 
 
-To do: clear egcd.lua from useless lines.
-![url=https://imgbb.com/][img]https://i.ibb.co/m0HX449/egcd-preview.gif[/img][/url]
+To do: clear egcd.lua from useless lines
